@@ -22,15 +22,14 @@ title: Comp110 Livestream
 email: bedsand@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is an analysis of whether COMP110 livestreams are worth implementing into the course.
-baseurl: "/comp110-livestream"" # the subpath of your site, e.g. /blog
+baseurl: "/comp110-livestream" # the subpath of your site, e.g. /blog
 url: "https://bedsand.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  bedsand
 
 # Build settings
 # Build settings
-remote_theme: "jekyll
-/minima@1e8a445"
+remote_theme: "jekyll/minima@1e8a445"
 
 plugins:
   - jekyll-remote-theme
